@@ -1,0 +1,51 @@
+* {
+	font-family: 'Tai Heritage Pro', serif;
+}
+
+/*Services Section */
+#services_offered {
+	margin-top: 30px;
+	background-color: skyblue;
+}
+
+.services-columns {
+	padding: 20px;
+}
+
+/* Gallery Section */
+
+#gallery {
+	margin-top: 80px;
+	background-color: orangered;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.underline hr {
+	border: 5px solid black;
+	border-radius: 2.5px;
+}
+
+footer {
+	background-color: black;
+	color: #ffffff;
+	padding: 20px;
+}
+
+.footer-links {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+
+}
+
+.footer-links:hover {
+	color: #01dddd;
+}
+
+.underline1 {
+	border: 5px solid black;
+}
