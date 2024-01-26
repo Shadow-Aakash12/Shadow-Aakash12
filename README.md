@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadow-Aakash12
-- 👀 I’m interested in Animation work
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently doing Frontend Works
 - 💞️ I’m looking to collaborate on Webdevelopment Projects
 - 📫 How to reach me 
 - E-mail: Sankar123aakash@gmail.com
