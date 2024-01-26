@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shadow-Aakash12
+- 👋 Hi, I’m Aakash Vinayak
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently doing Frontend Works
 - 💞️ I’m looking to collaborate on Webdevelopment Projects
